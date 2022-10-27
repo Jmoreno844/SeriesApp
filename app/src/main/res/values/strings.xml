@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SeriesApp</string>
+    <string name="crearserie">Serie Nueva</string>
+    <string name="str_2_nombre">Nombre</string>
+    <string name="str_2_descripcion">Descripcion</string>
+    <string name="str_uilink">UI Link</string>
+    <string name="crear_btnGuardar">Guardar</string>
+    <string name="crear_error">Digite un valor</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="errormsg">Las credenciales son incorrectas</string>
+</resources>
